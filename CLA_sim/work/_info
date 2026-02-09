@@ -1,0 +1,203 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+vCLA_16_bit
+Z0 !s110 1770672970
+!i10b 1
+!s100 =lBFPU]m]1``PTTFS29@03
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I92cbLe0U0bdN3B6YhogQQ3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Data/andro/IEEE/IEEE_Computer Arithmatic/Tasks/Task1/Task1_sim
+w1770671296
+8C:/Data/andro/IEEE/IEEE_Computer Arithmatic/Tasks/Task1/CLA_adder/CLA_adder.srcs/sources_1/new/CLA_16_bit.v
+FC:/Data/andro/IEEE/IEEE_Computer Arithmatic/Tasks/Task1/CLA_adder/CLA_adder.srcs/sources_1/new/CLA_16_bit.v
+!i122 124
+Z4 L0 2 18
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1770672970.000000
+!s107 C:/Data/andro/IEEE/IEEE_Computer Arithmatic/Tasks/Task1/CLA_adder/CLA_adder.srcs/sources_1/new/CLA_16_bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Data/andro/IEEE/IEEE_Computer Arithmatic/Tasks/Task1/CLA_adder/CLA_adder.srcs/sources_1/new/CLA_16_bit.v|
+!i113 1
+Z7 o-work work
+Z8 tCvgOpt 0
+n@c@l@a_16_bit
+vCLA_16_bit2
+!s110 1770670009
+!i10b 1
+!s100 OIX@UkA4znXh7njVEjZ<_1
+R1
+I?9SjHlkdLM90^>cfzHgHG1
+R2
+R3
+w1770669972
+8C:/Data/andro/IEEE/IEEE_Computer Arithmatic/Tasks/Task1/CLA_adder/CLA_adder.srcs/sources_1/new/CLA_16_bit2.v
+FC:/Data/andro/IEEE/IEEE_Computer Arithmatic/Tasks/Task1/CLA_adder/CLA_adder.srcs/sources_1/new/CLA_16_bit2.v
+!i122 109
+R4
+R5
+r1
+!s85 0
+31
+!s108 1770670009.000000
+!s107 C:/Data/andro/IEEE/IEEE_Computer Arithmatic/Tasks/Task1/CLA_adder/CLA_adder.srcs/sources_1/new/CLA_16_bit2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Data/andro/IEEE/IEEE_Computer Arithmatic/Tasks/Task1/CLA_adder/CLA_adder.srcs/sources_1/new/CLA_16_bit2.v|
+!i113 1
+R7
+R8
+n@c@l@a_16_bit2
+vCLA_4_bit
+R0
+!i10b 1
+!s100 ^H]`W:mTTlYQk5[eW>WK33
+R1
+IWOzObOdd:]9z@Pm>z_DPo1
+R2
+R3
+w1770669712
+8C:/Data/andro/IEEE/IEEE_Computer Arithmatic/Tasks/Task1/CLA_adder/CLA_adder.srcs/sources_1/new/CLA_4_bit.v
+FC:/Data/andro/IEEE/IEEE_Computer Arithmatic/Tasks/Task1/CLA_adder/CLA_adder.srcs/sources_1/new/CLA_4_bit.v
+!i122 123
+L0 3 16
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Data/andro/IEEE/IEEE_Computer Arithmatic/Tasks/Task1/CLA_adder/CLA_adder.srcs/sources_1/new/CLA_4_bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Data/andro/IEEE/IEEE_Computer Arithmatic/Tasks/Task1/CLA_adder/CLA_adder.srcs/sources_1/new/CLA_4_bit.v|
+!i113 1
+R7
+R8
+n@c@l@a_4_bit
+vCLA_64_bit
+R0
+!i10b 1
+!s100 HELa;MFni_KY5@oo_`ZaX0
+R1
+I>1PjcUcb=hj407U673Xgc3
+R2
+R3
+w1770671271
+8C:/Data/andro/IEEE/IEEE_Computer Arithmatic/Tasks/Task1/CLA_adder/CLA_adder.srcs/sources_1/new/CLA_64_bit.v
+FC:/Data/andro/IEEE/IEEE_Computer Arithmatic/Tasks/Task1/CLA_adder/CLA_adder.srcs/sources_1/new/CLA_64_bit.v
+!i122 125
+L0 1 18
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Data/andro/IEEE/IEEE_Computer Arithmatic/Tasks/Task1/CLA_adder/CLA_adder.srcs/sources_1/new/CLA_64_bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Data/andro/IEEE/IEEE_Computer Arithmatic/Tasks/Task1/CLA_adder/CLA_adder.srcs/sources_1/new/CLA_64_bit.v|
+!i113 1
+R7
+R8
+n@c@l@a_64_bit
+vCLA_network
+Z9 !s110 1770672971
+!i10b 1
+!s100 f<b5XmDDbFjMK3h4HQc;80
+R1
+IMY]X9@RblF6gKgXlgQUK53
+R2
+R3
+w1770672903
+8C:/Data/andro/IEEE/IEEE_Computer Arithmatic/Tasks/Task1/CLA_adder/CLA_adder.srcs/sources_1/new/CLA_network.v
+FC:/Data/andro/IEEE/IEEE_Computer Arithmatic/Tasks/Task1/CLA_adder/CLA_adder.srcs/sources_1/new/CLA_network.v
+!i122 126
+L0 2 14
+R5
+r1
+!s85 0
+31
+Z10 !s108 1770672971.000000
+!s107 C:/Data/andro/IEEE/IEEE_Computer Arithmatic/Tasks/Task1/CLA_adder/CLA_adder.srcs/sources_1/new/CLA_network.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Data/andro/IEEE/IEEE_Computer Arithmatic/Tasks/Task1/CLA_adder/CLA_adder.srcs/sources_1/new/CLA_network.v|
+!i113 1
+R7
+R8
+n@c@l@a_network
+vCLA_tb
+R9
+!i10b 1
+!s100 Ea6]1aQ2?7A85]L4g^S5h0
+R1
+ITJaFOGn1AzYZA@Y:@fE000
+R2
+R3
+w1770670090
+8C:/Data/andro/IEEE/IEEE_Computer Arithmatic/Tasks/Task1/CLA_adder/CLA_adder.srcs/sources_1/new/CLA_tb.v
+FC:/Data/andro/IEEE/IEEE_Computer Arithmatic/Tasks/Task1/CLA_adder/CLA_adder.srcs/sources_1/new/CLA_tb.v
+!i122 129
+L0 2 145
+R5
+r1
+!s85 0
+31
+R10
+!s107 C:/Data/andro/IEEE/IEEE_Computer Arithmatic/Tasks/Task1/CLA_adder/CLA_adder.srcs/sources_1/new/CLA_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Data/andro/IEEE/IEEE_Computer Arithmatic/Tasks/Task1/CLA_adder/CLA_adder.srcs/sources_1/new/CLA_tb.v|
+!i113 1
+R7
+R8
+n@c@l@a_tb
+vG_P_generation_unit
+R9
+!i10b 1
+!s100 GkMNG]feBYhegk76lXP7T0
+R1
+In002iHzAdgCiXS]mLfdS00
+R2
+R3
+w1770510117
+8C:/Data/andro/IEEE/IEEE_Computer Arithmatic/Tasks/Task1/CLA_adder/CLA_adder.srcs/sources_1/new/G_P_generation_unit.v
+FC:/Data/andro/IEEE/IEEE_Computer Arithmatic/Tasks/Task1/CLA_adder/CLA_adder.srcs/sources_1/new/G_P_generation_unit.v
+!i122 127
+L0 1 13
+R5
+r1
+!s85 0
+31
+R10
+!s107 C:/Data/andro/IEEE/IEEE_Computer Arithmatic/Tasks/Task1/CLA_adder/CLA_adder.srcs/sources_1/new/G_P_generation_unit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Data/andro/IEEE/IEEE_Computer Arithmatic/Tasks/Task1/CLA_adder/CLA_adder.srcs/sources_1/new/G_P_generation_unit.v|
+!i113 1
+R7
+R8
+n@g_@p_generation_unit
+vSUM_unit
+R9
+!i10b 1
+!s100 <TGjKcBeF`Vc`h;2BSood2
+R1
+IQ>@3VZmV>KoNP^EHKm2Ei3
+R2
+R3
+w1770510118
+8C:/Data/andro/IEEE/IEEE_Computer Arithmatic/Tasks/Task1/CLA_adder/CLA_adder.srcs/sources_1/new/SUM_unit.v
+FC:/Data/andro/IEEE/IEEE_Computer Arithmatic/Tasks/Task1/CLA_adder/CLA_adder.srcs/sources_1/new/SUM_unit.v
+!i122 128
+L0 1 12
+R5
+r1
+!s85 0
+31
+R10
+!s107 C:/Data/andro/IEEE/IEEE_Computer Arithmatic/Tasks/Task1/CLA_adder/CLA_adder.srcs/sources_1/new/SUM_unit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Data/andro/IEEE/IEEE_Computer Arithmatic/Tasks/Task1/CLA_adder/CLA_adder.srcs/sources_1/new/SUM_unit.v|
+!i113 1
+R7
+R8
+n@s@u@m_unit

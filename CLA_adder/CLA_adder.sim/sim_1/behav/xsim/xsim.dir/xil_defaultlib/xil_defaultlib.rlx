@@ -1,0 +1,10 @@
+0.7
+2020.2
+Nov 14 2025
+19:37:27
+C:/Data/andro/CA_project/CLA_adder/CLA_adder.sim/sim_1/behav/xsim/glbl.v,1756381829,verilog,,,,glbl,,,,,,,,
+C:/Data/andro/CA_project/CLA_adder/CLA_adder.srcs/sources_1/new/CLA_16_bit.v,1770511361,verilog,,,,CLA_16_bit,,,../../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/Data/andro/CA_project/CLA_adder/CLA_adder.srcs/sources_1/new/CLA_4_bit.v,1770508050,verilog,,,,CLA_4_bit,,,../../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/Data/andro/CA_project/CLA_adder/CLA_adder.srcs/sources_1/new/CLA_network.v,1770510042,verilog,,C:/Data/andro/CA_project/CLA_adder/CLA_adder.srcs/sources_1/new/G_P_generation_unit.v,,CLA_network,,,../../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/Data/andro/CA_project/CLA_adder/CLA_adder.srcs/sources_1/new/G_P_generation_unit.v,1770510117,verilog,,C:/Data/andro/CA_project/CLA_adder/CLA_adder.srcs/sources_1/new/SUM_unit.v,,G_P_generation_unit,,,../../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/Data/andro/CA_project/CLA_adder/CLA_adder.srcs/sources_1/new/SUM_unit.v,1770510118,verilog,,C:/Data/andro/CA_project/CLA_adder/CLA_adder.srcs/sources_1/new/CLA_16_bit.v,,SUM_unit,,,../../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
